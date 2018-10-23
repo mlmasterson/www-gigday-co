@@ -16,6 +16,9 @@ page_sections:
   cta:
     url: Get App
     button_text: https://app.gigday.co
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2018/10/23/bg5.jpg"
 published: false
 
 ---
