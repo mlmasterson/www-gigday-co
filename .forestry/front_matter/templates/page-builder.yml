@@ -32,18 +32,6 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
-- type: textarea
-  default: This is a test
-  config:
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: test text area
-  name: test_text_area
-- type: boolean
-  default: true
-  label: toggle
-  name: toggle
 pages:
 - test.md
 - index.md
