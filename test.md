@@ -19,6 +19,12 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/10/23/bg5.jpg"
+  cta:
+    enabled: true
+    url: app.gigday.co
+    button_text: Download our App
+  headline: This is the headline
+  content: This is the content
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -31,16 +37,22 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
+  headline: Professional Email and Websites
 - template: 3-column-text
   block: three-column-1
   col_1:
     headline: Standard
-    content: Receive notification on job posting<br>Chat and <strong>bid at no cost</strong><br><em>Win
-      Fee</em> paid <strong>only when awarded won</strong><br>Job site collaboration
+    content: "<strong>FREE</strong><br>Receive notification on job posting<br>Chat
+      and <strong>bid at no cost</strong><br><em>Win Fee</em> paid <strong>only when
+      awarded won</strong><br>Job site collaboration"
   col_2:
-    headline: Professional
-    content: Custom Website w/ Domain<br>Custom Email<br>No Win Fee for in-network
-      contractors<br>+ everything in Standard
+    headline: Pro
+    content: "<strong>$50</strong><br>Custom Website w/ Domain<br>Custom Email<br>No
+      Win Fee for in-network contractors<br>+ all features in Standard"
+  col_3:
+    headline: Pro+
+    content: Customer phone<br>Voicemail transcribed to text<br>Priority access to
+      new job postings<br>+ all features in Pro
 test_text_area: Not sure what this does
 toggle: false
 published: false
