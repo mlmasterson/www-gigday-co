@@ -31,6 +31,16 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Standard
+    content: Receive notification on job posting<br>Chat and <strong>bid at no cost</strong><br><em>Win
+      Fee</em> paid <strong>only when awarded won</strong><br>Job site collaboration
+  col_2:
+    headline: Professional
+    content: Custom Website w/ Domain<br>Custom Email<br>No Win Fee for in-network
+      contractors<br>+ everything in Standard
 test_text_area: Not sure what this does
 toggle: false
 published: false
