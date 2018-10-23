@@ -19,6 +19,18 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/10/23/bg5.jpg"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Quickly <strong>Bid</strong> and <strong>Hire</strong> contractors
+  content: Gigday makes it simple and fast to post pictures and plans. We instantly
+    match and notify contractors within your network and vetted by the community
+  media:
+    image: "/uploads/2018/10/23/ios_discover.png"
+    alt_text: Gigday discover view
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
 published: false
 
 ---
