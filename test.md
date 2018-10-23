@@ -31,6 +31,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
+test_text_area: Not sure what this does
+toggle: false
 published: false
 
 ---
